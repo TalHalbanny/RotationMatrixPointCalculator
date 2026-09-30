@@ -1,0 +1,11 @@
+build/*.exe
+build/*.png
+build/*.obj
+*.obj
+*.o
+*.pdb
+.vs/
+CMakeFiles/
+CMakeCache.txt
+cmake-install.cmake
+*.user
