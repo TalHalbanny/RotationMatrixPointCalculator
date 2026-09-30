@@ -14,6 +14,14 @@ Live Axes simulation before calculation of new point P1.
 
 ![Preview 2](preview2.png)
 
+Insert input (this time was chosen Z axis rotation at 90 degrees.) and observe calculated P1 result.
+
+![Preview 3](preview3.png)
+
+Observe simulation of point movement according to the Input to visualize the new P1 location.
+
+![Preview 4](preview4.png)
+
 
 
 ## Features
