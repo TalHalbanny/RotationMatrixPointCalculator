@@ -4,6 +4,15 @@ A Windows desktop app in C++ and OpenGL. You enter a 3D point, an angle, and an 
 
 **Author:** Tal Halbanny
 
+## Demo & Screenshots
+
+<video src="demo.mp4" controls width="100%"></video>
+
+*(If video playback is not supported in your markdown viewer, you can download/view the `demo.mp4` file directly).*
+
+![Preview 1](preview1.png)
+![Preview 2](preview2.png)
+
 ## Features
 
 - 3D view of the X, Y, and Z axes
