@@ -4,14 +4,17 @@ A Windows desktop app in C++ and OpenGL. You enter a 3D point, an angle, and an 
 
 **Author:** Tal Halbanny
 
-## Demo & Screenshots
+## Screenshots
 
-<video src="demo.mp4" controls width="100%"></video>
-
-*(If video playback is not supported in your markdown viewer, you can download/view the `demo.mp4` file directly).*
+Input panel for inserting point, axis and degrees for rotation.
 
 ![Preview 1](preview1.png)
+
+Live Axes simulation before calculation of new point P1.
+
 ![Preview 2](preview2.png)
+
+
 
 ## Features
 
